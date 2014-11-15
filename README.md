@@ -4,4 +4,4 @@ You need to install [Visual Studio 2013 Color Theme Editor](https://visualstudio
 
 ![Light grey](https://raw.githubusercontent.com/lleaff/VisualStudio2013Themes/12bf1fe20893d94b723d98cd7e279bceb655bc1f/Light_grey-v0.1-Preview.png)
 
-The additional syntax formatting (flow keywords and braces) is provided by [Viasfora](http://viasfora.com/).
+The additional syntax formatting is provided by [Viasfora](http://viasfora.com/).
