@@ -1,0 +1,5 @@
+# Custom themes for Visual Studio 2013
+
+You need to install [Visual Studio 2013 Color Theme Editor](https://visualstudiogallery.msdn.microsoft.com/9e08e5d3-6eb4-4e73-a045-6ea2a5cbdabe) to use custom themes.
+
+
