@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Dark cool" GUID="{dc54f779-9c6c-4425-b7fe-60568a501f9f}">
+  <Theme Name="Dark -lleaff" GUID="{dc54f779-9c6c-4425-b7fe-60568a501f9f}">
     <Category Name="Autos" GUID="{a7ee6bee-d0aa-4b2f-ad9d-748276a725f6}">
       <Color Name="ChangedText">
         <Foreground Type="CT_RAW" Source="FFF7A1A1" />

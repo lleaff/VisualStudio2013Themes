@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Light -Renaultt" GUID="{f68ee015-f330-4a61-ba6c-e18c629fe42e}">
+  <Theme Name="Light -lleaff" GUID="{f68ee015-f330-4a61-ba6c-e18c629fe42e}">
     <Category Name="Cider" GUID="{92d153ee-57d7-431f-a739-0931ca3f7f70}">
       <Color Name="ToolWindow">
         <Background Type="CT_RAW" Source="FFD8D8D8" />
@@ -393,6 +393,16 @@
       <Color Name="Knockout Region">
         <Background Type="CT_RAW" Source="00E0E0E0" />
         <Foreground Type="CT_RAW" Source="FF383737" />
+      </Color>
+      <Color Name="vsvim_commandmargin">
+        <Background Type="CT_RAW" Source="FFD7D7D7" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="vsvim_margin">
+        <Foreground Type="CT_RAW" Source="FF85FFCE" />
+      </Color>
+      <Color Name="vsvim_blockcaret">
+        <Foreground Type="CT_RAW" Source="FFD51B1B" />
       </Color>
     </Category>
     <Category Name="ConfigPage" GUID="{699a73b3-57e2-4754-9364-ee80d6852c2f}">
