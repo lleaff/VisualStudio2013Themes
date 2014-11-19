@@ -375,6 +375,454 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
     </Category>
+    <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+      <Color Name="C/C++ User Keywords">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
+      </Color>
+      <Color Name="MarkerFormatDefinition/HighlightedReference">
+        <Background Type="CT_RAW" Source="FF374F60" />
+        <Foreground Type="CT_RAW" Source="FFADC0D3" />
+      </Color>
+      <Color Name="MarkerFormatDefinition/FindHighlight">
+        <Background Type="CT_RAW" Source="FF8F9300" />
+      </Color>
+      <Color Name="MarkerFormatDefinition/ScopeHighlight">
+        <Background Type="CT_RAW" Source="FF0F202D" />
+      </Color>
+      <Color Name="Literal">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDADADA" />
+      </Color>
+      <Color Name="SymbolDefinitionClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5F95FA" />
+      </Color>
+      <Color Name="SymbolReferenceClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF7CA5A0" />
+      </Color>
+      <Color Name="CurrentLineActiveFormat">
+        <Background Type="CT_RAW" Source="FF202020" />
+        <Foreground Type="CT_RAW" Source="FF282828" />
+      </Color>
+      <Color Name="CurrentLineInactiveFormat">
+        <Background Type="CT_RAW" Source="FF242424" />
+        <Foreground Type="CT_RAW" Source="FF282828" />
+      </Color>
+      <Color Name="deltadiff.remove.line">
+        <Background Type="CT_RAW" Source="FF2D0000" />
+      </Color>
+      <Color Name="deltadiff.add.line">
+        <Background Type="CT_RAW" Source="FF15352C" />
+      </Color>
+      <Color Name="deltadiff.remove.word">
+        <Background Type="CT_RAW" Source="FF3C0000" />
+        <Foreground Type="CT_RAW" Source="FFFF6666" />
+      </Color>
+      <Color Name="deltadiff.add.word">
+        <Background Type="CT_RAW" Source="FF265E4D" />
+        <Foreground Type="CT_RAW" Source="FF76923C" />
+      </Color>
+      <Color Name="deltadiff.overview.color">
+        <Background Type="CT_RAW" Source="FF252925" />
+        <Foreground Type="CT_RAW" Source="FF424042" />
+      </Color>
+      <Color Name="outlining.collapsehintadornment">
+        <Background Type="CT_RAW" Source="FF232323" />
+        <Foreground Type="CT_RAW" Source="FFD7DDE8" />
+      </Color>
+      <Color Name="outlining.square">
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FFE2E2E2" />
+      </Color>
+      <Color Name="urlformat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
+      </Color>
+      <Color Name="Track reverted changes">
+        <Background Type="CT_RAW" Source="FF5F95FA" />
+      </Color>
+      <Color Name="mergeEditor.AcceptedLine">
+        <Background Type="CT_RAW" Source="FF215D4A" />
+      </Color>
+      <Color Name="mergeEditor.AcceptedSimilarLine">
+        <Background Type="CT_RAW" Source="FF163F32" />
+      </Color>
+      <Color Name="mergeEditor.ConflictLine">
+        <Background Type="CT_RAW" Source="FF590D0D" />
+      </Color>
+      <Color Name="mergeEditor.NotAcceptedLine">
+        <Background Type="CT_RAW" Source="FF181C18" />
+      </Color>
+      <Color Name="mergeEditor.DeletedNegativeSpace">
+        <Background Type="CT_RAW" Source="FFB1CE77" />
+      </Color>
+      <Color Name="mergeEditor.ConflictNegativeSpace">
+        <Background Type="CT_RAW" Source="FFDF2424" />
+      </Color>
+      <Color Name="mergeEditor.NegativeSpace">
+        <Background Type="CT_RAW" Source="FFD2D2D2" />
+      </Color>
+      <Color Name="mergeEditor.MarginIndicator">
+        <Background Type="CT_RAW" Source="FFCECECE" />
+      </Color>
+      <Color Name="mergeEditor.ConflictMarginIndicator">
+        <Background Type="CT_RAW" Source="FFDF2020" />
+      </Color>
+      <Color Name="mergeEditor.SelectionBox">
+        <Background Type="CT_RAW" Source="FF94CBF7" />
+      </Color>
+      <Color Name="XmlDocAttributeClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF92CAF4" />
+      </Color>
+      <Color Name="XmlDocCommentClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF57A64A" />
+      </Color>
+      <Color Name="XmlDocTagClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF57A64A" />
+      </Color>
+      <Color Name="XmlDelimiterClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF85BB82" />
+      </Color>
+      <Color Name="XmlCommentClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF57A64A" />
+      </Color>
+      <Color Name="XmlNameClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
+      </Color>
+      <Color Name="XmlAttributeNameClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF92CAF4" />
+      </Color>
+      <Color Name="XmlCDataSectionClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE9D585" />
+      </Color>
+      <Color Name="XmlProcessingInstructionClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFAEAEAE" />
+      </Color>
+      <Color Name="XmlAttributeValueClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="XmlAttributeQuotesClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="XmlTextClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="XmlEmbeddedExpressionClassificationFormat">
+        <Background Type="CT_RAW" Source="FFEDE0D1" />
+        <Foreground Type="CT_RAW" Source="FF717171" />
+      </Color>
+      <Color Name="VBUserTypeClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+      </Color>
+      <Color Name="VBExcludedCodeClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF9B9B9B" />
+      </Color>
+      <Color Name="CppMacroSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFBD63C5" />
+      </Color>
+      <Color Name="CppEnumSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+      </Color>
+      <Color Name="CppGlobalVariableSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFAFF91" />
+      </Color>
+      <Color Name="CppLocalVariableSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CppParameterSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF7F7F7F" />
+      </Color>
+      <Color Name="CppTypeSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+      </Color>
+      <Color Name="CppRefTypeSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+      </Color>
+      <Color Name="CppValueTypeSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+      </Color>
+      <Color Name="CppFunctionSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="001E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CppMemberFunctionSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="001E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CppMemberFieldSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDADADA" />
+      </Color>
+      <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CppStaticMemberFieldSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CppPropertySemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CppEventSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CppClassTemplateSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+      </Color>
+      <Color Name="CppGenericTypeSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+      </Color>
+      <Color Name="CppFunctionTemplateSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CppNamespaceSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CppLabelSemanticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CSS Keyword">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
+      </Color>
+      <Color Name="CSS Comment">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF57A64A" />
+      </Color>
+      <Color Name="CSS Selector">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD7BA7D" />
+      </Color>
+      <Color Name="CSS Property Name">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+      </Color>
+      <Color Name="CSS Property Value">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="CSS String Value">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD69D85" />
+      </Color>
+      <Color Name="HTML Attribute">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+      </Color>
+      <Color Name="HTML Attribute Value">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="HTML Comment">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF57A64A" />
+      </Color>
+      <Color Name="HTML Element Name">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
+      </Color>
+      <Color Name="HTML Entity">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF00A0A0" />
+      </Color>
+      <Color Name="HTML Operator">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
+      </Color>
+      <Color Name="HTML Server-Side Script">
+        <Background Type="CT_RAW" Source="FFFFFFB3" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="HTML Tag Delimiter">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF808080" />
+      </Color>
+      <Color Name="VBScript Keyword">
+        <Background Type="CT_COLORINDEX" Source="00000001" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="VBScript Comment">
+        <Background Type="CT_COLORINDEX" Source="00000001" />
+        <Foreground Type="CT_RAW" Source="FF57A64A" />
+      </Color>
+      <Color Name="VBScript Operator">
+        <Background Type="CT_COLORINDEX" Source="00000001" />
+        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
+      </Color>
+      <Color Name="VBScript Number">
+        <Background Type="CT_COLORINDEX" Source="00000001" />
+        <Foreground Type="CT_RAW" Source="FFB5CEA8" />
+      </Color>
+      <Color Name="VBScript String">
+        <Background Type="CT_COLORINDEX" Source="00000001" />
+        <Foreground Type="CT_RAW" Source="FFD69D85" />
+      </Color>
+      <Color Name="VBScript Identifier">
+        <Background Type="CT_COLORINDEX" Source="00000001" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="VBScript Function Block Start">
+        <Background Type="CT_COLORINDEX" Source="00000001" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="RegularExpressionClassificationFormat">
+        <Background Type="CT_COLORINDEX" Source="00000001" />
+        <Foreground Type="CT_RAW" Source="FF9A5334" />
+      </Color>
+      <Color Name="FileLineClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD85050" />
+      </Color>
+      <Color Name="InstructionLineClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF9B9B9B" />
+      </Color>
+      <Color Name="SourceLineClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFCFCFC" />
+      </Color>
+      <Color Name="SymbolLineClassificationFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5F95FA" />
+      </Color>
+      <Color Name="CodeAnalysisCurrentStatementSelection">
+        <Background Type="CT_RAW" Source="FF501E00" />
+        <Foreground Type="CT_RAW" Source="FFFF0000" />
+      </Color>
+      <Color Name="CodeAnalysisWarningSelection">
+        <Background Type="CT_RAW" Source="FF825000" />
+        <Foreground Type="CT_RAW" Source="FF825000" />
+      </Color>
+      <Color Name="CodeAnalysisKeyEventSelection">
+        <Background Type="CT_RAW" Source="FF6E5000" />
+        <Foreground Type="CT_RAW" Source="FF6E5000" />
+      </Color>
+      <Color Name="CodeAnalysisLineTraceSelection">
+        <Background Type="CT_RAW" Source="FF333333" />
+        <Foreground Type="CT_RAW" Source="FF333333" />
+      </Color>
+      <Color Name="OverviewMarginCollapsedRegion">
+        <Background Type="CT_RAW" Source="FFDCDCDC" />
+      </Color>
+      <Color Name="OverviewMarginBackground">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="OverviewMarginVisible">
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF4D4D4D" />
+      </Color>
+      <Color Name="OverviewMarginCaret">
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+      </Color>
+      <Color Name="MarkerFormatDefinition/BookmarkInScrollBar">
+        <Background Type="CT_RAW" Source="FFC0C4C0" />
+      </Color>
+      <Color Name="MarkerFormatDefinition/BreakpointInScrollBar">
+        <Background Type="CT_RAW" Source="FF903840" />
+      </Color>
+      <Color Name="Peek Background">
+        <Background Type="CT_RAW" Source="FF001F33" />
+      </Color>
+      <Color Name="Peek Focused Border">
+        <Foreground Type="CT_RAW" Source="FF30309A" />
+      </Color>
+      <Color Name="Peek Background Unfocused">
+        <Background Type="CT_RAW" Source="FF252525" />
+      </Color>
+      <Color Name="Peek Label Text">
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+      <Color Name="vsvim_blockcaret">
+        <Foreground Type="CT_RAW" Source="00FFFFFF" />
+      </Color>
+      <Color Name="RazorCode">
+        <Background Type="CT_RAW" Source="FF505050" />
+      </Color>
+      <Color Name="HtmlClientTemplateValueFormatDefinition">
+        <Foreground Type="CT_RAW" Source="FFFF00FF" />
+      </Color>
+      <Color Name="JSON Property Name">
+        <Foreground Type="CT_RAW" Source="FFD7BA7D" />
+      </Color>
+      <Color Name="Knockout Region">
+        <Background Type="CT_RAW" Source="FF4B4B4B" />
+      </Color>
+      <Color Name="LessCssVariableDeclarationClassificationFormat">
+        <Foreground Type="CT_RAW" Source="FFC563BD" />
+      </Color>
+      <Color Name="LessCssVariableReferenceFormat">
+        <Foreground Type="CT_RAW" Source="FFC563BD" />
+      </Color>
+      <Color Name="LessCssNamespaceReferenceFormat">
+        <Foreground Type="CT_RAW" Source="FF7DBAD7" />
+      </Color>
+      <Color Name="LessCssMixinDeclarationFormat">
+        <Foreground Type="CT_RAW" Source="FF7DBAD7" />
+      </Color>
+      <Color Name="LessCssMixinReferenceFormat">
+        <Foreground Type="CT_RAW" Source="FF7DBAD7" />
+      </Color>
+      <Color Name="LessCssKeywordFormat">
+        <Foreground Type="CT_RAW" Source="FFD69C56" />
+      </Color>
+      <Color Name="ScssMixinDeclarationFormat">
+        <Foreground Type="CT_RAW" Source="FF7DBAD7" />
+      </Color>
+      <Color Name="ScssMixinReferenceFormat">
+        <Foreground Type="CT_RAW" Source="FF7DBAD7" />
+      </Color>
+      <Color Name="ScssVariableDeclarationClassificationFormat">
+        <Foreground Type="CT_RAW" Source="FFC563BD" />
+      </Color>
+      <Color Name="ScssVariableReferenceFormat">
+        <Foreground Type="CT_RAW" Source="FFC563BD" />
+      </Color>
+      <Color Name="Line Number">
+        <Foreground Type="CT_RAW" Source="FF5B5B5B" />
+      </Color>
+      <Color Name="Viasfora Visibility Keyword">
+        <Foreground Type="CT_RAW" Source="FF5E96FF" />
+      </Color>
+      <Color Name="Viasfora Flow Control Keyword">
+        <Foreground Type="CT_RAW" Source="FFAD83E7" />
+      </Color>
+      <Color Name="vsvim_commandmargin">
+        <Background Type="CT_RAW" Source="FF202020" />
+        <Foreground Type="CT_RAW" Source="FFAAAAAA" />
+      </Color>
+    </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -1394,7 +1842,7 @@
         <Background Type="CT_RAW" Source="FF3E3E40" />
       </Color>
       <Color Name="ToolWindowTabMouseOverText">
-        <Background Type="CT_RAW" Source="FF55AAFF" />
+        <Background Type="CT_RAW" Source="FF8A8AFF" />
       </Color>
       <Color Name="VizSurfaceBrownDark">
         <Background Type="CT_RAW" Source="FF705829" />
@@ -1988,10 +2436,10 @@
         <Background Type="CT_RAW" Source="FF2D2D30" />
       </Color>
       <Color Name="ToolWindowTabText">
-        <Background Type="CT_RAW" Source="FFD0D0D0" />
+        <Background Type="CT_RAW" Source="FFC2C2C2" />
       </Color>
       <Color Name="ToolWindowTabSelectedText">
-        <Background Type="CT_RAW" Source="FF6B6BFF" />
+        <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="WizardOrientationPanelBackground">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -2334,7 +2782,7 @@
         <Background Type="CT_RAW" Source="FF30309A" />
       </Color>
       <Color Name="ToolWindowTabSelectedActiveText">
-        <Background Type="CT_RAW" Source="FF6B6BFF" />
+        <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="CommandBarTextMouseDown">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -2500,7 +2948,7 @@
         <Background Type="CT_RAW" Source="FF30309A" />
       </Color>
       <Color Name="StatusBarDefault">
-        <Background Type="CT_RAW" Source="FF494949" />
+        <Background Type="CT_RAW" Source="FF3F3F3F" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="MainWindowActiveNoSolutionBorder">
@@ -4284,454 +4732,6 @@
       <Color Name="XSLT Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF569CD6" />
-      </Color>
-    </Category>
-    <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
-      <Color Name="C/C++ User Keywords">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
-      </Color>
-      <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_RAW" Source="FF374F60" />
-        <Foreground Type="CT_RAW" Source="FFADC0D3" />
-      </Color>
-      <Color Name="MarkerFormatDefinition/FindHighlight">
-        <Background Type="CT_RAW" Source="FF8F9300" />
-      </Color>
-      <Color Name="MarkerFormatDefinition/ScopeHighlight">
-        <Background Type="CT_RAW" Source="FF0F202D" />
-      </Color>
-      <Color Name="Literal">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDADADA" />
-      </Color>
-      <Color Name="SymbolDefinitionClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF5F95FA" />
-      </Color>
-      <Color Name="SymbolReferenceClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7CA5A0" />
-      </Color>
-      <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF202020" />
-        <Foreground Type="CT_RAW" Source="FF282828" />
-      </Color>
-      <Color Name="CurrentLineInactiveFormat">
-        <Background Type="CT_RAW" Source="FF242424" />
-        <Foreground Type="CT_RAW" Source="FF282828" />
-      </Color>
-      <Color Name="deltadiff.remove.line">
-        <Background Type="CT_RAW" Source="FF2D0000" />
-      </Color>
-      <Color Name="deltadiff.add.line">
-        <Background Type="CT_RAW" Source="FF15352C" />
-      </Color>
-      <Color Name="deltadiff.remove.word">
-        <Background Type="CT_RAW" Source="FF3C0000" />
-        <Foreground Type="CT_RAW" Source="FFFF6666" />
-      </Color>
-      <Color Name="deltadiff.add.word">
-        <Background Type="CT_RAW" Source="FF265E4D" />
-        <Foreground Type="CT_RAW" Source="FF76923C" />
-      </Color>
-      <Color Name="deltadiff.overview.color">
-        <Background Type="CT_RAW" Source="FF252925" />
-        <Foreground Type="CT_RAW" Source="FF424042" />
-      </Color>
-      <Color Name="outlining.collapsehintadornment">
-        <Background Type="CT_RAW" Source="FF232323" />
-        <Foreground Type="CT_RAW" Source="FFD7DDE8" />
-      </Color>
-      <Color Name="outlining.square">
-        <Background Type="CT_RAW" Source="FF000000" />
-        <Foreground Type="CT_RAW" Source="FFE2E2E2" />
-      </Color>
-      <Color Name="urlformat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
-      </Color>
-      <Color Name="Track reverted changes">
-        <Background Type="CT_RAW" Source="FF5F95FA" />
-      </Color>
-      <Color Name="mergeEditor.AcceptedLine">
-        <Background Type="CT_RAW" Source="FF215D4A" />
-      </Color>
-      <Color Name="mergeEditor.AcceptedSimilarLine">
-        <Background Type="CT_RAW" Source="FF163F32" />
-      </Color>
-      <Color Name="mergeEditor.ConflictLine">
-        <Background Type="CT_RAW" Source="FF590D0D" />
-      </Color>
-      <Color Name="mergeEditor.NotAcceptedLine">
-        <Background Type="CT_RAW" Source="FF181C18" />
-      </Color>
-      <Color Name="mergeEditor.DeletedNegativeSpace">
-        <Background Type="CT_RAW" Source="FFB1CE77" />
-      </Color>
-      <Color Name="mergeEditor.ConflictNegativeSpace">
-        <Background Type="CT_RAW" Source="FFDF2424" />
-      </Color>
-      <Color Name="mergeEditor.NegativeSpace">
-        <Background Type="CT_RAW" Source="FFD2D2D2" />
-      </Color>
-      <Color Name="mergeEditor.MarginIndicator">
-        <Background Type="CT_RAW" Source="FFCECECE" />
-      </Color>
-      <Color Name="mergeEditor.ConflictMarginIndicator">
-        <Background Type="CT_RAW" Source="FFDF2020" />
-      </Color>
-      <Color Name="mergeEditor.SelectionBox">
-        <Background Type="CT_RAW" Source="FF94CBF7" />
-      </Color>
-      <Color Name="XmlDocAttributeClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF92CAF4" />
-      </Color>
-      <Color Name="XmlDocCommentClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
-      </Color>
-      <Color Name="XmlDocTagClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
-      </Color>
-      <Color Name="XmlDelimiterClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF85BB82" />
-      </Color>
-      <Color Name="XmlCommentClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
-      </Color>
-      <Color Name="XmlNameClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
-      </Color>
-      <Color Name="XmlAttributeNameClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF92CAF4" />
-      </Color>
-      <Color Name="XmlCDataSectionClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE9D585" />
-      </Color>
-      <Color Name="XmlProcessingInstructionClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFAEAEAE" />
-      </Color>
-      <Color Name="XmlAttributeValueClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="XmlAttributeQuotesClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="XmlTextClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="XmlEmbeddedExpressionClassificationFormat">
-        <Background Type="CT_RAW" Source="FFEDE0D1" />
-        <Foreground Type="CT_RAW" Source="FF717171" />
-      </Color>
-      <Color Name="VBUserTypeClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
-      </Color>
-      <Color Name="VBExcludedCodeClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9B9B9B" />
-      </Color>
-      <Color Name="CppMacroSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBD63C5" />
-      </Color>
-      <Color Name="CppEnumSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
-      </Color>
-      <Color Name="CppGlobalVariableSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFAFF91" />
-      </Color>
-      <Color Name="CppLocalVariableSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CppParameterSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7F7F7F" />
-      </Color>
-      <Color Name="CppTypeSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
-      </Color>
-      <Color Name="CppRefTypeSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
-      </Color>
-      <Color Name="CppValueTypeSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
-      </Color>
-      <Color Name="CppFunctionSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="001E1E1E" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CppMemberFunctionSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="001E1E1E" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CppMemberFieldSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDADADA" />
-      </Color>
-      <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CppStaticMemberFieldSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CppPropertySemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CppEventSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CppClassTemplateSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
-      </Color>
-      <Color Name="CppGenericTypeSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
-      </Color>
-      <Color Name="CppFunctionTemplateSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CppNamespaceSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CppLabelSemanticTokenFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CSS Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
-      </Color>
-      <Color Name="CSS Comment">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
-      </Color>
-      <Color Name="CSS Selector">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD7BA7D" />
-      </Color>
-      <Color Name="CSS Property Name">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
-      </Color>
-      <Color Name="CSS Property Value">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="CSS String Value">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
-      </Color>
-      <Color Name="HTML Attribute">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
-      </Color>
-      <Color Name="HTML Attribute Value">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="HTML Comment">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
-      </Color>
-      <Color Name="HTML Element Name">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
-      </Color>
-      <Color Name="HTML Entity">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00A0A0" />
-      </Color>
-      <Color Name="HTML Operator">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
-      </Color>
-      <Color Name="HTML Server-Side Script">
-        <Background Type="CT_RAW" Source="FFFFFFB3" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
-      </Color>
-      <Color Name="HTML Tag Delimiter">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF808080" />
-      </Color>
-      <Color Name="VBScript Keyword">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="VBScript Comment">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
-      </Color>
-      <Color Name="VBScript Operator">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
-      </Color>
-      <Color Name="VBScript Number">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFB5CEA8" />
-      </Color>
-      <Color Name="VBScript String">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
-      </Color>
-      <Color Name="VBScript Identifier">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
-      </Color>
-      <Color Name="VBScript Function Block Start">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
-      <Color Name="RegularExpressionClassificationFormat">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FF9A5334" />
-      </Color>
-      <Color Name="FileLineClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD85050" />
-      </Color>
-      <Color Name="InstructionLineClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9B9B9B" />
-      </Color>
-      <Color Name="SourceLineClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFCFCFC" />
-      </Color>
-      <Color Name="SymbolLineClassificationFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF5F95FA" />
-      </Color>
-      <Color Name="CodeAnalysisCurrentStatementSelection">
-        <Background Type="CT_RAW" Source="FF501E00" />
-        <Foreground Type="CT_RAW" Source="FFFF0000" />
-      </Color>
-      <Color Name="CodeAnalysisWarningSelection">
-        <Background Type="CT_RAW" Source="FF825000" />
-        <Foreground Type="CT_RAW" Source="FF825000" />
-      </Color>
-      <Color Name="CodeAnalysisKeyEventSelection">
-        <Background Type="CT_RAW" Source="FF6E5000" />
-        <Foreground Type="CT_RAW" Source="FF6E5000" />
-      </Color>
-      <Color Name="CodeAnalysisLineTraceSelection">
-        <Background Type="CT_RAW" Source="FF333333" />
-        <Foreground Type="CT_RAW" Source="FF333333" />
-      </Color>
-      <Color Name="OverviewMarginCollapsedRegion">
-        <Background Type="CT_RAW" Source="FFDCDCDC" />
-      </Color>
-      <Color Name="OverviewMarginBackground">
-        <Background Type="CT_RAW" Source="FF2D2D30" />
-      </Color>
-      <Color Name="OverviewMarginVisible">
-        <Background Type="CT_RAW" Source="FF000000" />
-        <Foreground Type="CT_RAW" Source="FF4D4D4D" />
-      </Color>
-      <Color Name="OverviewMarginCaret">
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
-      </Color>
-      <Color Name="MarkerFormatDefinition/BookmarkInScrollBar">
-        <Background Type="CT_RAW" Source="FFC0C4C0" />
-      </Color>
-      <Color Name="MarkerFormatDefinition/BreakpointInScrollBar">
-        <Background Type="CT_RAW" Source="FF903840" />
-      </Color>
-      <Color Name="Peek Background">
-        <Background Type="CT_RAW" Source="FF001F33" />
-      </Color>
-      <Color Name="Peek Focused Border">
-        <Foreground Type="CT_RAW" Source="FF30309A" />
-      </Color>
-      <Color Name="Peek Background Unfocused">
-        <Background Type="CT_RAW" Source="FF252525" />
-      </Color>
-      <Color Name="Peek Label Text">
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
-      </Color>
-      <Color Name="vsvim_blockcaret">
-        <Foreground Type="CT_RAW" Source="00FFFFFF" />
-      </Color>
-      <Color Name="RazorCode">
-        <Background Type="CT_RAW" Source="FF505050" />
-      </Color>
-      <Color Name="HtmlClientTemplateValueFormatDefinition">
-        <Foreground Type="CT_RAW" Source="FFFF00FF" />
-      </Color>
-      <Color Name="JSON Property Name">
-        <Foreground Type="CT_RAW" Source="FFD7BA7D" />
-      </Color>
-      <Color Name="Knockout Region">
-        <Background Type="CT_RAW" Source="FF4B4B4B" />
-      </Color>
-      <Color Name="LessCssVariableDeclarationClassificationFormat">
-        <Foreground Type="CT_RAW" Source="FFC563BD" />
-      </Color>
-      <Color Name="LessCssVariableReferenceFormat">
-        <Foreground Type="CT_RAW" Source="FFC563BD" />
-      </Color>
-      <Color Name="LessCssNamespaceReferenceFormat">
-        <Foreground Type="CT_RAW" Source="FF7DBAD7" />
-      </Color>
-      <Color Name="LessCssMixinDeclarationFormat">
-        <Foreground Type="CT_RAW" Source="FF7DBAD7" />
-      </Color>
-      <Color Name="LessCssMixinReferenceFormat">
-        <Foreground Type="CT_RAW" Source="FF7DBAD7" />
-      </Color>
-      <Color Name="LessCssKeywordFormat">
-        <Foreground Type="CT_RAW" Source="FFD69C56" />
-      </Color>
-      <Color Name="ScssMixinDeclarationFormat">
-        <Foreground Type="CT_RAW" Source="FF7DBAD7" />
-      </Color>
-      <Color Name="ScssMixinReferenceFormat">
-        <Foreground Type="CT_RAW" Source="FF7DBAD7" />
-      </Color>
-      <Color Name="ScssVariableDeclarationClassificationFormat">
-        <Foreground Type="CT_RAW" Source="FFC563BD" />
-      </Color>
-      <Color Name="ScssVariableReferenceFormat">
-        <Foreground Type="CT_RAW" Source="FFC563BD" />
-      </Color>
-      <Color Name="Line Number">
-        <Foreground Type="CT_RAW" Source="FF5B5B5B" />
-      </Color>
-      <Color Name="Viasfora Visibility Keyword">
-        <Foreground Type="CT_RAW" Source="FF5E96FF" />
-      </Color>
-      <Color Name="Viasfora Flow Control Keyword">
-        <Foreground Type="CT_RAW" Source="FFAD83E7" />
-      </Color>
-      <Color Name="vsvim_commandmargin">
-        <Background Type="CT_RAW" Source="FF202020" />
-        <Foreground Type="CT_RAW" Source="FFAAAAAA" />
       </Color>
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
