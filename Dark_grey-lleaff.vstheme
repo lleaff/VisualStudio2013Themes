@@ -381,8 +381,8 @@
         <Foreground Type="CT_RAW" Source="FF569CD6" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_RAW" Source="FF374F60" />
-        <Foreground Type="CT_RAW" Source="FFADC0D3" />
+        <Background Type="CT_RAW" Source="FF243E72" />
+        <Foreground Type="CT_RAW" Source="FF243E72" />
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
         <Background Type="CT_RAW" Source="FF8F9300" />
@@ -404,11 +404,11 @@
       </Color>
       <Color Name="CurrentLineActiveFormat">
         <Background Type="CT_RAW" Source="FF202020" />
-        <Foreground Type="CT_RAW" Source="FF282828" />
+        <Foreground Type="CT_RAW" Source="FF202020" />
       </Color>
       <Color Name="CurrentLineInactiveFormat">
-        <Background Type="CT_RAW" Source="FF242424" />
-        <Foreground Type="CT_RAW" Source="FF282828" />
+        <Background Type="CT_RAW" Source="FF232323" />
+        <Foreground Type="CT_RAW" Source="FF232323" />
       </Color>
       <Color Name="deltadiff.remove.line">
         <Background Type="CT_RAW" Source="FF2D0000" />
@@ -765,7 +765,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="vsvim_blockcaret">
-        <Foreground Type="CT_RAW" Source="00FFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF808080" />
       </Color>
       <Color Name="RazorCode">
         <Background Type="CT_RAW" Source="FF505050" />
@@ -813,14 +813,20 @@
         <Foreground Type="CT_RAW" Source="FF5B5B5B" />
       </Color>
       <Color Name="Viasfora Visibility Keyword">
-        <Foreground Type="CT_RAW" Source="FF5E96FF" />
+        <Foreground Type="CT_RAW" Source="FFAD83E7" />
       </Color>
       <Color Name="Viasfora Flow Control Keyword">
-        <Foreground Type="CT_RAW" Source="FFAD83E7" />
+        <Foreground Type="CT_RAW" Source="FF5E96FF" />
       </Color>
       <Color Name="vsvim_commandmargin">
         <Background Type="CT_RAW" Source="FF202020" />
         <Foreground Type="CT_RAW" Source="FFAAAAAA" />
+      </Color>
+      <Color Name="Viasfora Rainbow Brace 1">
+        <Foreground Type="CT_RAW" Source="FFDBDCDA" />
+      </Color>
+      <Color Name="Viasfora Rainbow Brace 3">
+        <Foreground Type="CT_RAW" Source="FFCF7B30" />
       </Color>
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
@@ -4795,7 +4801,7 @@
         <Background Type="CT_RAW" Source="FF577430" />
       </Color>
       <Color Name="Brace Matching (Rectangle)">
-        <Background Type="CT_RAW" Source="FF6A9193" />
+        <Background Type="CT_RAW" Source="FF8A4500" />
       </Color>
       <Color Name="Definition Window Background">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
